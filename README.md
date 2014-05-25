@@ -1,6 +1,4 @@
-percolator
-==========
-
+![](images/logo.png)
 ## ... a Simple REST test tool
 
 #1) Ready 
